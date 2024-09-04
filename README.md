@@ -29,7 +29,8 @@ def circulate():
 ```
 
 ## Output:
-![Screenshot 2024-09-03 105617](https://github.com/user-attachments/assets/b6739435-7540-43e3-bd2c-306ab5e85b67)
+![Screenshot 2024-09-04 154750](https://github.com/user-attachments/assets/e51a536d-9f09-4416-b623-456890c014b6)
+
 
 
 ## Result
